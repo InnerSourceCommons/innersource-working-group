@@ -1,4 +1,4 @@
-# InnerSource Program Office (ISPO) Working Group Presentation Slides
+# InnerSource Working Group Presentation Slides
 
 We use [Marp](https://marp.app/) to create our slides.
 

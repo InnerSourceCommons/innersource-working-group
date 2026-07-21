@@ -62,6 +62,7 @@ Special thanks to:
 * Jeff Bailey ([@jeffabailey](https://github.com/jeffabailey))
 * Justin Gosses ([@JustinGOSSES](https://github.com/JustinGOSSES))
 * Guilherme Dellagustin ([@dellagustin-sap](https://github.com/dellagustin-sap))
+* Micaela Eller ([@micaelaeller](https://github.com/meller13))
 
 ## Recording
 

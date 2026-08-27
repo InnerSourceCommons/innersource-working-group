@@ -1,4 +1,4 @@
-# InnerSoure Working Group
+# InnerSource Working Group
 
 The purpose of this working group is to support InnerSource Program Offices (ISPOs) with materials needed to establish themselves, educate partners and stakeholders, and scale InnerSource in their respective company.
 This material could be directed towards senior leaders, managers, or individuals in a variety of roles.
@@ -36,7 +36,7 @@ These two examples follow the same pattern - providing directly-usable materials
 
 ## Joining the Working Group
 
-To chat with everybody in the InnerSoure Working Group, please join us in the _[#innersource-working-group]_ channel in [slack].
+To chat with everybody in the InnerSource Working Group, please join us in the _[#innersource-working-group]_ channel in [slack].
 
 You can find our public meetings on the [InnerSource Commons Public Calendar] (recurring every-other-Monday).
 Add to your calendar and join us!
@@ -55,7 +55,7 @@ Here is our [working group documentation site].
 
 ## Trusted Committers
 
-These people regularly give their time to the running of the InnerSoure Working Group.
+These people regularly give their time to the running of the InnerSource Working Group.
 Special thanks to:
 
 * Russ Rutledge ([@rrrutledge](https://github.com/rrrutledge))

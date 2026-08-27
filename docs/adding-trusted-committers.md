@@ -1,15 +1,15 @@
-This document describes how to add a new Trusted Committer to the InnerSoure Working Group.
+This document describes how to add a new Trusted Committer to the InnerSource Working Group.
 
 1. Share your suggestion for new Trusted Committer in the [#innersource-working-group-trusted-committers] private _Slack_ channel.
 2. If you have some agreement (or even [lazy consensus](https://community.apache.org/committers/lazyConsensus.html)), then move forward.
-3. Let the person know that they've been accepted as a Trusted Committer in the InnerSoure Working Group.
+3. Let the person know that they've been accepted as a Trusted Committer in the InnerSource Working Group.
 4. If they want to be a Trusted Committer, then move forward.
 5. Update the ["Trusted Committers" section of the README](../README.md#trusted-committers) to list the new person.
 6. Invite the person into the [#innersource-working-group-trusted-committers] _Slack_ channel.
 7. Add the person to the [@InnerSourceCommons/innersource-working-group-trusted-committers] _GitHub_ team.
 8. Make the person an owner of the [@InnerSourceCommons/innersource-working-group-trusted-committers] _GitHub_ team.
 9. Add the person as an assignee for the ["Join Working Group" issue template](https://github.com/InnerSourceCommons/innersource-working-group/edit/main/.github/ISSUE_TEMPLATE/join-wg.yml).
-10. Invite the person to the InnerSoure Working Group Trusted Committers meeting.
+10. Invite the person to the InnerSource Working Group Trusted Committers meeting.
 11. Give a shout-out and congratulations to the person in the [#innersource-working-group] channel for becoming a Trusted Committer.
 
 [#innersource-working-group-trusted-committers]: https://app.slack.com/client/T04PXKRM0/C05QTAZC5PZ

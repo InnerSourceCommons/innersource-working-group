@@ -4,14 +4,14 @@ theme: ispowg
 themeSet: ../themes
 ---
 
-# Welcome to the InnerSoure Working Group! 🎉
+# Welcome to the InnerSource Working Group! 🎉
 
 ## Quick 10-Min Intro
  
-The InnerSource Program Office (ISPO) Working Group is a group of people who are interested in improving the internal code collaboration experience at full organization scale.
+The InnerSource Working Group (ISWG) is a group of people who are interested in improving the internal code collaboration experience at full organization scale.
 
 <!--
-The InnerSource Program Office (ISPO) Working Group is a group of people who are interested in improving the internal code collaboration experience at full organization scale.
+The InnerSource Working Group (ISWG) is a group of people who are interested in improving the internal code collaboration experience at full organization scale.
 -->
 
 ---

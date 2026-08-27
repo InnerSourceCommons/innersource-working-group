@@ -1,7 +1,7 @@
 #!/bin/bash
 set -uo pipefail
 
-# Generate InnerSoure Working Group Slides
+# Generate InnerSource Working Group Slides
 # This script can be run locally to test slide generation
 # 
 # Usage: ./docs/slides/scripts/generate-slides.sh

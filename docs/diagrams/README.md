@@ -1,6 +1,6 @@
-# InnerSoure Working Group Diagrams
+# InnerSource Working Group Diagrams
 
-This directory contains diagrams for the InnerSoure Working Group.
+This directory contains diagrams for the InnerSource Working Group.
 
 ## Diagrams
 

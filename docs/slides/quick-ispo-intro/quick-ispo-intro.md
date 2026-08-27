@@ -4,7 +4,7 @@ theme: ispowg
 themeSet: ../themes
 ---
 
-# Welcome to the ISPO Working Group! 🎉
+# Welcome to the InnerSoure Working Group! 🎉
 
 ## Quick 10-Min Intro
  

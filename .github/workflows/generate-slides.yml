@@ -1,4 +1,4 @@
-name: Generate ISPO Working Group Slides
+name: Generate InnerSoure Working Group Slides
 on:
   push:
     branches: [main]

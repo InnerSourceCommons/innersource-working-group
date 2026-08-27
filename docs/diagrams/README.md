@@ -1,6 +1,6 @@
-# ISPO Working Group Diagrams
+# InnerSoure Working Group Diagrams
 
-This directory contains diagrams for the ISPO Working Group.
+This directory contains diagrams for the InnerSoure Working Group.
 
 ## Diagrams
 

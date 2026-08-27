@@ -1,4 +1,4 @@
-# How Do I Contribute to the ISPO Working Group?
+# How Do I Contribute to the InnerSoure Working Group?
 
 Welcome!
 
@@ -16,7 +16,7 @@ Check out our [README.md] for more details.
 ```mermaid
 sequenceDiagram
   participant You
-  participant WG as ISPO Working Group
+  participant WG as InnerSoure Working Group
   participant MIP as Managing InnerSource Projects Book
   participant ISP as InnerSource Patterns
 
@@ -45,11 +45,11 @@ this working group. Contributions improve content in the
 [InnerSource Learning Path] segment.
 
 Slides, spreadsheets, and other artifacts not easily represented elsewhere can
-go in the [ISPO Working Group GDrive]. Be sure to attribute all the
+go in the [InnerSoure Working Group GDrive]. Be sure to attribute all the
 contributors to the resulting work (e.g., in the _Authors_ or
 _Acknowledgements_ sections of Patterns).
 
-To contribute, get access to the board by [joining the ISPO Working Group team].
+To contribute, get access to the board by [joining the InnerSoure Working Group team].
 
 We track the production of our content on a [Kanban board] with the following
 columns:
@@ -125,12 +125,12 @@ docker compose up
 You should be able to access the website at <http://localhost:4000/innersource-working-group/>
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
-[joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/innersource-working-group/issues/new/choose
+[joining the InnerSoure Working Group team]: https://github.com/InnerSourceCommons/innersource-working-group/issues/new/choose
 [#innersource-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [InnerSource Commons Slack]: https://innersourcecommons.org/slack
 [README.md]: ./README.md
 [InnerSource Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath
-[ISPO Working Group GDrive]: https://drive.google.com/drive/folders/1zhP_wQQFf1cIHnkTUZtBGuLhEUYXzvlC
+[InnerSoure Working Group GDrive]: https://drive.google.com/drive/folders/1zhP_wQQFf1cIHnkTUZtBGuLhEUYXzvlC
 [Project Template]: https://github.com/orgs/InnerSourceCommons/projects/18?query=is%3Aopen+sort%3Aupdated-desc
 [InnerSource Patterns]: https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns
 [Managing InnerSource Projects]: https://github.com/InnerSourceCommons/managing-inner-source-projects

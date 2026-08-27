@@ -11,7 +11,7 @@ The working group creates resources for enterprise InnerSource teams.
 
 <!--
 Hello, Jeff and I are going to talk to you today about the 
-ISPO Working Group,   which is a working group within the InnerSource commons 
+InnerSoure Working Group,   which is a working group within the InnerSource commons 
 devoted to creating shared resources for people working on InnerSource at an Enterprise level.
 -->
 
@@ -72,13 +72,13 @@ who we are trying to reach today with this presentation and working group.
 
 ![bg right:40%](../assets/managing-innersource-projects-cover.jpg)
 
-Q: WHY is the ISPO working group a subset of InnerSource Commons?
+Q: WHY is the InnerSoure Working Group a subset of InnerSource Commons?
 
 A: We focus on accelerating teams that run and support InnerSource across an organization rather than individuals.
 
 <!--
 
-The ISPO working group focuses on a subset of the larger InnerSource Commons scope.
+The InnerSoure Working Group focuses on a subset of the larger InnerSource Commons scope.
 
 We focus on guidance for
 the teams that run and support InnerSource across an enterprise or agency rather than guidance at the project or individual level. 
@@ -97,14 +97,14 @@ on elements specific to centralized teams driving InnerSource at company-wide sc
 
 <!--- Our objective: Key Message --->
 
-Our objective in this presentation is to help you discover the benefits of our ISPO working group.
+Our objective in this presentation is to help you discover the benefits of our InnerSoure Working Group.
 
 https://github.com/InnerSourceCommons/innersource-working-group/blob/main/CONTRIBUTING.md
 
 <!--
 
 Our goal for this talk is to help you learn about the 
-ISPO working group and how it might benefit you.
+InnerSoure Working Group and how it might benefit you.
 
 In addition to the content in this talk, you can 
 check out similar information in the contributing.md 
@@ -219,7 +219,7 @@ What did I get from contributing to Source Code Management project?
 <!--
 
 The source code management challenge is one area where I have personally
-participated in creating ISPO working group content. 
+participated in creating InnerSoure Working Group content. 
 
 There are several reasons why I took part in this challenge area:
 
@@ -279,7 +279,7 @@ Looking ahead, this experience isn't a one-time benefit. When my company expands
 ---
 <!--- How do we operate?: Key Message --->
 
-## How the ISPO working group operates
+## How the InnerSoure Working Group operates
 
 ![bg right 100%](../assets/how-innersource-working-group-operates.png)
 
@@ -340,7 +340,7 @@ We contribute to the Managing InnerSource Projects Gitbook, InnerSource Patterns
 
 ![bg right 60%](../assets/creative.png)
 
-***The ISPO working group can be your force multiplier!***
+***The InnerSoure Working Group can be your force multiplier!***
 
 *What challenges are you facing?*
 
@@ -357,7 +357,7 @@ Is there a challenge you’ve facing today?
 
 ![bg right 60%](../assets/collaboration.png)
 
-Attend an ISPO working group meeting
+Attend an InnerSoure Working Group meeting
 
 Get meeting invites by adding an issue:
 
@@ -374,7 +374,7 @@ https://github.com/InnerSourceCommons/innersource-working-group/issues/new
 
 <!--
 
-Attend the ISPO working group meeting on November 2nd.
+Attend the InnerSoure Working Group meeting on November 2nd.
 
 -->
 

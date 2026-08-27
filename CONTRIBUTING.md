@@ -29,7 +29,7 @@ sequenceDiagram
 
 ### Attend a meeting
 
-The [InnerSource Commons Slack] [#ispo-working-group] community will post the
+The [InnerSource Commons Slack] [#innersource-working-group] community will post the
 next meeting.
 
 ### Review others' content
@@ -72,12 +72,12 @@ In our meetings, we propose new challenges, discuss ideas, and demo solutions.
 1. Assign the new card to yourself by clicking the link on the card.
 1. Check if your contribution relates to existing [InnerSource Patterns].
 1. Learn more about the next Working Group meeting by joining
-   [#ispo-working-group] in the [InnerSource Commons Slack] workspace.
+   [#innersource-working-group] in the [InnerSource Commons Slack] workspace.
 1. During our meetings, discuss your card and what you plan to contribute.
 
 ### Lead or make Project contributions
 
-Learn about ongoing projects in regular meetings or [discover open projects](https://github.com/InnerSourceCommons/ispo-working-group/projects?query=is%3Aopen).
+Learn about ongoing projects in regular meetings or [discover open projects](https://github.com/InnerSourceCommons/innersource-working-group/projects?query=is%3Aopen).
 
 Use our [Project Template] to create a new project.
 
@@ -85,7 +85,7 @@ Use our [Project Template] to create a new project.
 
 Simply send a pull request to this repository to contribute.
 Note that the rendered website at
-<https://innersourcecommons.github.io/ispo-working-group/> is using a Jekyll
+<https://innersourcecommons.github.io/innersource-working-group/> is using a Jekyll
 theme that comes from
 <https://github.com/InnerSourceCommons/working-group-roles>.
 Some elements you see in the rendered webpage are coming from the theme
@@ -110,7 +110,7 @@ Run jekyll locally to serve the website with the command:
 jekyll serve
 ```
 
-You should be able to access the website at <http://localhost:4000/ispo-working-group/>
+You should be able to access the website at <http://localhost:4000/innersource-working-group/>
 
 ### With a Docker Compose
 
@@ -122,11 +122,11 @@ the following command:
 docker compose up
 ```
 
-You should be able to access the website at <http://localhost:4000/ispo-working-group/>
+You should be able to access the website at <http://localhost:4000/innersource-working-group/>
 
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
-[joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new/choose
-[#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
+[joining the ISPO Working Group team]: https://github.com/InnerSourceCommons/innersource-working-group/issues/new/choose
+[#innersource-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [InnerSource Commons Slack]: https://innersourcecommons.org/slack
 [README.md]: ./README.md
 [InnerSource Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath

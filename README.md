@@ -36,7 +36,7 @@ These two examples follow the same pattern - providing directly-usable materials
 
 ## Joining the Working Group
 
-To chat with everybody in the ISPO working group, please join us in the _[#ispo-working-group]_ channel in [slack].
+To chat with everybody in the ISPO working group, please join us in the _[#innersource-working-group]_ channel in [slack].
 
 You can find our public meetings on the [InnerSource Commons Public Calendar] (recurring every-other-Monday).
 Add to your calendar and join us!
@@ -85,18 +85,18 @@ _Our goals align with [the InnerSource Commons RISE goals](https://innersourceco
 
 ## Contact
 
-Find us in the _[#ispo-working-group]_ channel in [slack].
+Find us in the _[#innersource-working-group]_ channel in [slack].
 
-[CONTRIBUTING.md]: https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
-[#ispo-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
+[CONTRIBUTING.md]: https://github.com/InnerSourceCommons/innersource-working-group/blob/main/CONTRIBUTING.md
+[#innersource-working-group]: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
 [slack]: https://innersourcecommons.org/slack
 [InnerSource Commons Public Calendar]: https://calendar.google.com/calendar/u/0/embed?src=c_62694f414055ac569e5cb12dafbb0890ca22f3640b177a4b10b53171fbc9bdd4@group.calendar.google.com
-[new issue]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new
+[new issue]: https://github.com/InnerSourceCommons/innersource-working-group/issues/new
 [Kanban board]: https://github.com/orgs/InnerSourceCommons/projects/4/views/1
 [Managing InnerSource Projects]: https://innersourcecommons.org/learn/books/managing-innersource-projects/
 [InnerSource Patterns]: https://innersourcecommons.org/learn/books/innersource-patterns/
 [Learning Path]: https://github.com/InnerSourceCommons/InnerSourceLearningPath
-[join working group]: https://github.com/InnerSourceCommons/ispo-working-group/issues/new?assignees=rrrutledge%2Cspier&labels=join-wg&template=join-wg.yml&title=%5Bjoin%5D+%3Cyour-name%3E
+[join working group]: https://github.com/InnerSourceCommons/innersource-working-group/issues/new?assignees=rrrutledge%2Cspier&labels=join-wg&template=join-wg.yml&title=%5Bjoin%5D+%3Cyour-name%3E
 [InnerSource Commons working group roles]: https://github.com/InnerSourceCommons/working-group-roles
-[working group documentation site]: https://innersourcecommons.github.io/ispo-working-group/
-[Working Group Charter]: https://github.com/InnerSourceCommons/foundation-governance/blob/master/resources/ispo-working-group-charter.md
+[working group documentation site]: https://innersourcecommons.github.io/innersource-working-group/
+[Working Group Charter]: https://github.com/InnerSourceCommons/foundation-governance/blob/master/resources/innersource-working-group-charter.md

@@ -40,7 +40,7 @@ It's actually really fun and you learn a ton!
 
 **Three easy ways:**
 
-1. **Join our Slack** → `#ispo-working-group` in InnerSource Commons
+1. **Join our Slack** → `#innersource-working-group` in InnerSource Commons
 2. **Attend a meeting** → We'll post the next one in Slack
 3. **Add a challenge** → Share what you're working on via our Kanban board
 

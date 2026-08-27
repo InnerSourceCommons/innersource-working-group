@@ -99,7 +99,7 @@ on elements specific to centralized teams driving InnerSource at company-wide sc
 
 Our objective in this presentation is to help you discover the benefits of our ISPO working group.
 
-https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
+https://github.com/InnerSourceCommons/innersource-working-group/blob/main/CONTRIBUTING.md
 
 <!--
 
@@ -108,13 +108,13 @@ ISPO working group and how it might benefit you.
 
 In addition to the content in this talk, you can 
 check out similar information in the contributing.md 
-file of the ispo-working-group repository.
+file of the innersource-working-group repository.
 
 We will put it in the meeting chat. 
 If you want to look at things during the talk, 
 that's a great place to start.
 
-https://github.com/InnerSourceCommons/ispo-working-group/blob/main/CONTRIBUTING.md
+https://github.com/InnerSourceCommons/innersource-working-group/blob/main/CONTRIBUTING.md
 -->
 
 ---
@@ -281,7 +281,7 @@ Looking ahead, this experience isn't a one-time benefit. When my company expands
 
 ## How the ISPO working group operates
 
-![bg right 100%](../assets/how-ispo-working-group-operates.png)
+![bg right 100%](../assets/how-innersource-working-group-operates.png)
 
 Share challenges, collaborate, deliver.
 
@@ -361,7 +361,7 @@ Attend an ISPO working group meeting
 
 Get meeting invites by adding an issue:
 
-https://github.com/InnerSourceCommons/ispo-working-group/issues/new
+https://github.com/InnerSourceCommons/innersource-working-group/issues/new
 
 🗓️ **Date:** Every other Monday
 
@@ -393,13 +393,13 @@ Collaboration opportunities, code reuse, knowedge sharing through community, and
 ---
 <!--- Join our group: Closing Statement --->
 
-![bg right 60%](../assets/ispo-working-group-code.png)
+![bg right 60%](../assets/innersource-working-group-code.png)
 
 **Collaborate with us!**
 
-* Join #ispo-working-group in our slack group: https://innersourcecommons.org/community/#ispo
-* Get meeting invites: https://github.com/InnerSourceCommons/ispo-working-group/issues/new
-* GitHub repository: https://github.com/InnerSourceCommons/ispo-working-group
+* Join #innersource-working-group in our slack group: https://innersourcecommons.org/community/#ispo
+* Get meeting invites: https://github.com/InnerSourceCommons/innersource-working-group/issues/new
+* GitHub repository: https://github.com/InnerSourceCommons/innersource-working-group
 * Kanban board: https://github.com/orgs/InnerSourceCommons/projects/4 
 
 <!---

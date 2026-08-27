@@ -5,12 +5,12 @@ description: "The purpose of this working group is to support InnerSource Progra
 
 backlink: InnerSource Commons, https://innersourcecommons.org/community/
 
-baseurl: "/ispo-working-group" 
+baseurl: "/innersource-working-group" 
 
 url: "https://innersourcecommons.github.io"
 
 links:
-  # The #ispo-working-group channel in the innersourcecommons Slack.
+  # The #innersource-working-group channel in the innersourcecommons Slack.
   chat: https://app.slack.com/client/T04PXKRM0/C04DT6NQX7G
   
   # The "ISPO Working Group" folder.
